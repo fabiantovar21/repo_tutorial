@@ -6,7 +6,5 @@ cambio realizado en el README
 
 cambio realizado desde la nube
 
-
-
-Cambio realizado desde main
+Cambio realizado desde auxiliar
 
